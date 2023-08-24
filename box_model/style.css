@@ -1,0 +1,38 @@
+.margin {
+  width: 500px;
+  min-height: 400px;
+  background: #666efc;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 2px;
+}
+
+.border {
+  width: 420px;
+  min-height: 300px;
+  padding: 5px 5px;
+  background: #96BAFF;
+  margin: 0 auto;
+}
+
+.padding {
+  width: 372px;
+  min-height: 200px;
+  padding: 2px 4px;
+  background: #78edff;
+  margin: 0 auto;
+}
+
+.content {
+  width: 318px;
+  min-height: 122px;
+  padding: 2px 4px;
+  background: white;
+  margin: 0 auto;
+}
+
+p {
+  font-size: medium;
+  text-transform: uppercase;
+  font-weight: 600;
+}
